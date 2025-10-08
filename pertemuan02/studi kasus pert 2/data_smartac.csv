@@ -1,0 +1,101 @@
+﻿Suhu Luar,Kebiasaan Penghuni,Kondisi Perangkat,Waktu Hari,Keputusan Energi (AC/Pemanas)
+30,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+25,Jarang di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+18,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+28,Jarang di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+22,Sering di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+26,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+32,Jarang di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+21,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+19,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+24,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+23,Jarang di Rumah,Dioperasikan,Malam,Matikan AC
+30,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+27,Jarang di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+22,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+25,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+29,Jarang di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+21,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+26,Jarang di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+28,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+20,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+19,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+24,Jarang di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+18,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+28,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+30,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+29,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+23,Jarang di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+21,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+25,Sering di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+32,Jarang di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+22,Sering di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+27,Sering di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+24,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+20,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+26,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+28,Jarang di Rumah,Dioperasikan,Malam,Meningkatkan Suhu AC
+21,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+23,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+18,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+25,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+24,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+21,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+19,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+30,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+22,Jarang di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+25,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+27,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+28,Jarang di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+26,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+31,Jarang di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+23,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+19,Jarang di Rumah,Dioperasikan,Siang,Nyalakan AC
+25,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+27,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+21,Jarang di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+24,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+30,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+25,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+19,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+23,Sering di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+18,Jarang di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+29,Sering di Rumah,Dioperasikan,Malam,Meningkatkan Suhu AC
+26,Jarang di Rumah,Dioperasikan,Siang,Nyalakan AC
+27,Sering di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+25,Sering di Rumah,Tidak Dioperasikan,Malam,Matikan Perangkat
+22,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+23,Jarang di Rumah,Dioperasikan,Siang,Nyalakan AC
+24,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+21,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+30,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+18,Jarang di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+22,Sering di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+26,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+27,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+29,Jarang di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+30,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+24,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+23,Jarang di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+20,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+21,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+24,Sering di Rumah,Dioperasikan,Siang,Nyalakan AC
+26,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+28,Jarang di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+30,Sering di Rumah,Dioperasikan,Malam,Menurunkan Suhu AC
+29,Sering di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+20,Jarang di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+26,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+23,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+25,Sering di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+29,Sering di Rumah,Dioperasikan,Siang,Meningkatkan Suhu AC
+23,Sering di Rumah,Tidak Dioperasikan,Siang,Nyalakan AC
+21,Jarang di Rumah,Dioperasikan,Siang,Nyalakan AC
+27,Sering di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
+18,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+30,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan AC
+23,Jarang di Rumah,Dioperasikan,Siang,Nyalakan AC
+22,Sering di Rumah,Tidak Dioperasikan,Siang,Matikan Perangkat
+27,Sering di Rumah,Dioperasikan,Malam,Nyalakan Pemanas
+25,Sering di Rumah,Tidak Dioperasikan,Malam,Nyalakan Pemanas
+21,Jarang di Rumah,Dioperasikan,Siang,Menurunkan Suhu AC
