@@ -12,9 +12,9 @@ The model is trained using a dataset of various smartphones and their features, 
 | File Name | Description |
 | :--- | :--- |
 | **[`Prediction Price.ipynb`](./Prediction%20Price.ipynb)** | The main **Jupyter Notebook** that contains the complete project workflow: data loading, Exploratory Data Analysis (EDA), feature engineering, model training, evaluation, and saving the final model. |requirements.txt
-| **[`data-smartphone.csv`](./data-smartphone.csv)** | The **raw dataset** used for training the model. It includes features like Brand, Storage, RAM, Screen Size, Camera, and Battery Capacity. |
+| **[`Data-smartphone.csv`](./data-smartphone.csv)** | The **raw dataset** used for training the model. It includes features like Brand, Storage, RAM, Screen Size, Camera, and Battery Capacity. |
 | **[`E_Model_Price_Pridiction_For_Phones.joblib`](./E_Model_Price_Pridiction_For_Phones.joblib)** | The **final trained machine learning model**, serialized using `joblib`. This model can be loaded directly to make price predictions without retraining. |
-| **[`requirements.txt`](./requirements.txt)** | A list of all required **Python packages** and their specific versions needed to run the notebook and the model successfully. |
+| **[`Requirements.txt`](./requirements.txt)** | A list of all required **Python packages** and their specific versions needed to run the notebook and the model successfully. |
 
 
 ## 🔬 Notebook Workflow (`Prediction Price.ipynb`)
