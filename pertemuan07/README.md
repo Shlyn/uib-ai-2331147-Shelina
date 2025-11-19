@@ -82,7 +82,6 @@ Di dalam proyek ini, terdapat beberapa langkah: **Data Understanding**, **Data P
    * Evaluasi dengan accuracy, precision, recall, F1-score, ROC-AUC.
 
 4. **Evaluation**
-
    * Confusion matrix per model.
    * Perbandingan model berdasarkan ROC-AUC.
 
